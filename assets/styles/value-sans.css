@@ -1,0 +1,79 @@
+@font-face {
+    font-family: 'Value Sans';
+    src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/statics@main/assets/fonts/value-sans/ValueSans-Regular.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/statics@main/assets/fonts/value-sans/ValueSans-Regular.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/statics@main/assets/fonts/value-sans/ValueSans-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Value Sans';
+    src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/statics@main/assets/fonts/value-sans/ValueSans-Italic.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/statics@main/assets/fonts/value-sans/ValueSans-Italic.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/statics@main/assets/fonts/value-sans/ValueSans-Italic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Value Sans';
+    src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/statics@main/assets/fonts/value-sans/ValueSans-Medium.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/statics@main/assets/fonts/value-sans/ValueSans-Medium.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/statics@main/assets/fonts/value-sans/ValueSans-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Value Sans';
+    src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/statics@main/assets/fonts/value-sans/ValueSans-MediumItalic.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/statics@main/assets/fonts/value-sans/ValueSans-MediumItalic.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/statics@main/assets/fonts/value-sans/ValueSans-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Value Sans';
+    src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/statics@main/assets/fonts/value-sans/ValueSans-Bold.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/statics@main/assets/fonts/value-sans/ValueSans-Bold.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/statics@main/assets/fonts/value-sans/ValueSans-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Value Sans';
+    src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/statics@main/assets/fonts/value-sans/ValueSans-BoldItalic.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/statics@main/assets/fonts/value-sans/ValueSans-BoldItalic.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/statics@main/assets/fonts/value-sans/ValueSans-BoldItalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Value Sans';
+    src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/statics@main/assets/fonts/value-sans/ValueSans-Black.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/statics@main/assets/fonts/value-sans/ValueSans-Black.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/statics@main/assets/fonts/value-sans/ValueSans-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Value Sans';
+    src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/statics@main/assets/fonts/value-sans/ValueSans-BlackItalic.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/statics@main/assets/fonts/value-sans/ValueSans-BlackItalic.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/statics@main/assets/fonts/value-sans/ValueSans-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
